@@ -10,6 +10,14 @@ a {
   text-decoration: none;
 }
 
+tr:nth-child(even) {
+  background-color: #D6EEEE;
+}
+tr:nth-child(odd) {
+  background-color: #D6EEEE;
+}
+
+
 :root {
   --primary-color: #0353a4;
 }
